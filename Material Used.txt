@@ -1,3 +1,7 @@
-https://geology.com/world/world-map.shtml <- World Map
-UFO < own design
-music < made using beepbox.co, composed by me
+https://geology.com/world/world-map.shtml world-map.png <- World Map
+ufo.png < own design\
+KritaSaucer.gif < A1 Sample
+http://ufoseries.com/soundEffects/ufoFlying.mp3  ufoFlying.mp3 < sound effects
+http://www.orangefreesounds.com/boing-sound/ <- Boing sound
+
+UFO Tracker by Mitchell Charity
